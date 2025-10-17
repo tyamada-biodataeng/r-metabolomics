@@ -3,6 +3,7 @@ install.packages(c(
   "ellipse",
   "rjson",
   "loadings",
+  "mseapca",
   "qvalue",
   "anndata",
   "Seurat"
