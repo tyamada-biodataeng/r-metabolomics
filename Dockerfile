@@ -1,4 +1,4 @@
-FROM bioconductor/bioconductor_docker:RELEASE_3_21-R-4.5.1
+FROM bioconductor/bioconductor_docker:RELEASE_3_20-R-4.4.2
 
 RUN apt-get update && \
     apt-get install -y \

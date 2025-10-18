@@ -30,5 +30,6 @@ BiocManager::install(c(
   "devtools",
   "crmn",
   "httr",
-  "qs"
+  "qs",
+  "mixOmics"
 ), dependencies = TRUE)
