@@ -1,7 +1,7 @@
 services:
   rstudio:
     build: .
-    image: biobr131/r-metabolomics:latest
+    image: tyamadabiodataeng/r-metabolomics:latest
     container_name: rstudio
     environment:
       - TZ=Asia/Tokyo
